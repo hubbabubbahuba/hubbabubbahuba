@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is my masterpiece. I have spent the last three years building this website brick by brick, and I believe I have achieved my full potential. Download it with caution, as your mind might crumble at the first second of viewing.
 
 <!--
 **hubbabubbahuba/hubbabubbahuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
